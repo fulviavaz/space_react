@@ -79,25 +79,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
 
-<a href="https://www.instagram.com/ncode.io/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
- <br />
- <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" title="Alura Space">🚀</a>
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-NeiltonSeguins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
-[![Gmail Badge](https://img.shields.io/badge/-neilton.seguins@alura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilton.seguins@alura.com.br)](mailto:neilton.seguins@alura.com.br)
-
----
-
-## 📝 Licença
-
-Desenvolvido por [Alura](https://www.alura.com.br/).
-
-Instrutor: [Neilton Seguins](https://cursos.alura.com.br/user/neilton-seguins) 
-
-👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
-
----
